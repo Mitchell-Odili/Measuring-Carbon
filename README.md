@@ -1,5 +1,5 @@
 # Measuring-Carbon: Satellite-Based Emissions Analysis Platform
-Founding Technical Lead | Presented at EGU General Assembly (Vienna) & AGU (San Francisco)
+Founding Technical Lead | Presented at [EGU General Assembly (Vienna)](https://meetingorganizer.copernicus.org/EGU23/EGU23-15643.html) & [AGU (San Francisco)](https://agu23.ipostersessions.com/?s=B0-22-99-50-8F-7C-70-BF-22-66-DA-D6-60-F8-01-12)
 
 ## Executive Summary & Product Deep-Dive
 
