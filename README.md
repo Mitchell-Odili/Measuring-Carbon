@@ -1,19 +1,19 @@
 # Measuring-Carbon: Satellite-Based Emissions Analysis Platform
 Founding Technical Lead | Presented at [EGU General Assembly (Vienna)](https://meetingorganizer.copernicus.org/EGU23/EGU23-15643.html) & [AGU (San Francisco)](https://agu23.ipostersessions.com/?s=B0-22-99-50-8F-7C-70-BF-22-66-DA-D6-60-F8-01-12)
 
-## Executive Summary & Product Deep-Dive
+[Measuring Carbon](https://www.measuringcarbon.com/) is a no-code geospatial intelligence platform that enables policymakers, ESG analysts, journalists, and climate researchers to visualize and quantify carbon emissions directly from satellite observations. No atmospheric science background required.
+
+The platform bridges the gap between NASA OCO-2/3 satellite data and actionable climate strategy, combining high-performance rendering of planetary-scale datasets with localized event analysis of wildfires and industrial emission clusters.
+
+This repository documents the product management lifecycle: strategic decisions, system architecture, and trade-off rationale. The core engine is maintained in a private enterprise repository.
+
+### Executive Summary & Product Deep-Dive
 
 🎙️[!TIP]
 [Watch the 2-Minute Project Overview](https://github.com/Mitchell-Odili/Measuring-Carbon/blob/main/Images%20and%20video/Measuring_Carbon_brief.mp4)
 
 *This AI-generated deep-dive provides a high-level walkthrough of the platform's vision, technical architecture, and the strategic pivots overcome during development.
 Use of Satellite imagery and AI to support decarbonization efforts; offering a path for standardized, affordable and easy to use monitoring, reporting and verification of carbon emissions*
-
-[Measuring Carbon](https://www.measuringcarbon.com/) is a no-code geospatial intelligence platform that enables policymakers, ESG analysts, journalists, and climate researchers to visualize and quantify carbon emissions directly from satellite observations. No atmospheric science background required.
-
-The platform bridges the gap between NASA OCO-2/3 satellite data and actionable climate strategy, combining high-performance rendering of planetary-scale datasets with localized event analysis of wildfires and industrial emission clusters.
-
-This repository documents the product management lifecycle: strategic decisions, system architecture, and trade-off rationale. The core engine is maintained in a private enterprise repository.
 
 ---
 
